@@ -7,11 +7,11 @@
   "env": {
     "CANVAS_CONSUMER_KEY": {
         "description": "The consumer key for connecting to Canvas.",
-        "value": "Inital Consumer Key Value"
+        "value": "3MVG9HxRZv05HarT0K0vN7hpafeibLn4EAGoxd2hZnCjgU4CrH2JiW2fQ0n.U1qBPH1a7izfVqPv1LjN82kcc"
     },
     "CANVAS_CONSUMER_SECRET": {
         "description": "The consumer secret that signs the Canvas contextual information.",
-        "value": "Inital Consumer Secret Value"
+        "value": "63E39C5229FA940BA4B7BC381B1C447991C988C2590D31CD4F095A088EF916B2"
     }
   }
 }
